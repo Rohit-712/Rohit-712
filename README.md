@@ -13,9 +13,6 @@ I'm a Computer Science student passionate about "Machine Learning" and "AI". Wel
 - Deep Learning with TensorFlow 🚀
 - Natural Language Processing (NLP) 🔤
 
-## 🏆 GitHub Contributions:
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react)
-
 ## 📂 Featured Projects:
 - **[Spam Email Classifier](https://github.com/Rohit-712/spam-email-classifier)**  
   A machine learning model to classify SMS as spam or not spam.  
