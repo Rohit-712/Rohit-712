@@ -13,9 +13,6 @@ I'm a Computer Science student passionate about "Machine Learning" and "AI". Wel
 - Deep Learning with TensorFlow 🚀
 - Natural Language Processing (NLP) 🔤
 
-## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
 ## 🏆 GitHub Contributions:
 ![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react)
 
